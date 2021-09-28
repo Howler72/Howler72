@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Howler72
-- 👀 I’m interested in ...AWS, Python, Ansible
-- 🌱 I’m currently learning ...AWS, Python, Machine Learning
+- 👀 I’m interested in ...AWS, Python, Machine Learning, Cryptography
+- 🌱 I’m currently learning ...AWS, Python,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mrbarrera@gmail.com
 
