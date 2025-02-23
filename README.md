@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Howler72
 - 👀 I’m interested in ...AWS, Python, Machine Learning, Cryptography, Blockchain
-- 🌱 I’m currently learning ...AWS, Python, Terraform.
+- 🌱 I’m currently learning ...AWS, Python, Terraform, GCP and BigQuery.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mrbarrera@gmail.com
 
